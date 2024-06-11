@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "<link to the uploaded XCFramework ZIP file>",
-         checksum:"<checksum calculated for the ZIP file>")
+         url: "https://github.com/d-ambatenne/FrameworksSharing/releases/download/XCFrameworks/Shared.xcframework.zip",
+         checksum:"338945c46f98e12745e79a50871e956285c5dc003074cfaaecc5efa9609516bf")
    ]
 )
